@@ -20,9 +20,9 @@ Saya seorang mahasiswa dari UST Yogyakarta yang fokus pada pengembangan game dan
 ---
 
 ### 📊 Statistik GitHub
-![ Statistik GitHub Anda ]( https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight )
-![ Langs Teratas ]( https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight )
+![ Statistik GitHub Anda ]( https://github-readme-stats.vercel.app/api?username=USEr_KAMU&show_icons=true&theme=tokyonight )  
+![ Langs Teratas ]( https://github-readme-stats.vercel.app/api/top-langs/?username=User&layout=compact&theme=tokyonight )  
 
 ### 📬 Hubungi Saya
 - **Layanan:** Tersedia untuk komisi pembuatan Karakter & Animasi 3D (Joki 3D)
-- **Instagram/LinkedIn:** [Link Kamu]
+- **Instagram/LinkedIn:** [@yusranrusydi]            
