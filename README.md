@@ -21,9 +21,9 @@ Saya seorang mahasiswa dari UST Yogyakarta yang fokus pada pengembangan game dan
 
 ### 📊 Statistik GitHub
 ![ Statistik GitHub Anda ]( https://github-readme-stats.vercel.app/api?username=bbigi&show_icons=true&theme=tokyonight )          
-![ Langs Teratas ]( https://github-readme-stats.vercel.app/api/top-langs/?username=bbigi&layout=compact&theme=tokyonight )        
+![ Langs Teratas ]( https://github-readme-stats.vercel.app/api/top-langs/?username=bbigi&layout=compact&theme=tokyonight )          
 ### 🏆 Trofi GitHub
-[ ![trofi kontribusi github ]( https://github-profile-trophy.vercel.app/?username=bbigiU )]( https://github.com/ryo-ma/github-profile-trophy )    
+[ ![trofi kontribusi github ]( https://github-profile-trophy.vercel.app/?username=bbigi )]( https://github.com/ryo-ma/github-profile-trophy )                    
 
 ### 💼 Layanan
 Saya terbuka untuk pekerjaan lepas:
