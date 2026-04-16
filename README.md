@@ -22,6 +22,8 @@ Saya seorang mahasiswa dari UST Yogyakarta yang fokus pada pengembangan game dan
 ### 📊 Statistik GitHub
 ![ Statistik GitHub Anda ]( https://github-readme-stats.vercel.app/api?username=bbigi&show_icons=true&theme=tokyonight )          
 ![ Langs Teratas ]( https://github-readme-stats.vercel.app/api/top-langs/?username=bbigi&layout=compact&theme=tokyonight )                                 
+### 🐍 My Contributions Snake
+![snake gif](https://raw.githubusercontent.com/bbigi/bbigi/output/github-contribution-grid-snake.svg)
 
 ### 💼 Layanan
 Saya terbuka untuk pekerjaan lepas:
