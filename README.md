@@ -7,7 +7,7 @@ Saya seorang mahasiswa dari UST Yogyakarta yang fokus pada pengembangan game dan
 ---
 
 ### 🛠 Tumpukan Teknologi & Alat
-- **Pengembang Game:** Godot, Unity, Roblox Studio
+- **Pengembang Game:** Godot, Unity, Roblox Studio  
 - **Seni 3D:** Blender (Karakter Bergaya, Rigging, VRM)
 - **Pemrograman:** GDScript, C#, Python, Laravel (Web)
 - **Alat:** Penyesuaian Perintah ADB, Optimasi Linux/ThinkPad
@@ -20,10 +20,10 @@ Saya seorang mahasiswa dari UST Yogyakarta yang fokus pada pengembangan game dan
 ---
 
 ### 📊 Statistik GitHub
-![ Statistik GitHub Anda ]( https://github-readme-stats.vercel.app/api?username=bbigi&show_icons=true&theme=tokyonight )        
+![ Statistik GitHub Anda ]( https://github-readme-stats.vercel.app/api?username=bbigi&show_icons=true&theme=tokyonight )          
 ![ Langs Teratas ]( https://github-readme-stats.vercel.app/api/top-langs/?username=bbigi&layout=compact&theme=tokyonight )        
 ### 🏆 Trofi GitHub
-[ ![trofi kontribusi github ]( https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU )]( https://github.com/ryo-ma/github-profile-trophy )
+[ ![trofi kontribusi github ]( https://github-profile-trophy.vercel.app/?username=bbigiU )]( https://github.com/ryo-ma/github-profile-trophy )    
 
 ### 💼 Layanan
 Saya terbuka untuk pekerjaan lepas:
