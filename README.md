@@ -20,7 +20,7 @@ Saya seorang mahasiswa dari UST Yogyakarta yang fokus pada pengembangan game dan
 ---
 
 ### 📊 Statistik GitHub
-![ Statistik GitHub Anda ]( https://github-readme-stats.vercel.app/api?username=USEr_KAMU&show_icons=true&theme=tokyonight )  
+![ Statistik GitHub Anda ]( https://github-readme-stats.vercel.app/api?username=User&show_icons=true&theme=tokyonight )    
 ![ Langs Teratas ]( https://github-readme-stats.vercel.app/api/top-langs/?username=User&layout=compact&theme=tokyonight )  
 
 ### 📬 Hubungi Saya
