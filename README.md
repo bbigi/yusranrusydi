@@ -20,9 +20,13 @@ Saya seorang mahasiswa dari UST Yogyakarta yang fokus pada pengembangan game dan
 ---
 
 ### 📊 Statistik GitHub
-![ Statistik GitHub Anda ]( https://github-readme-stats.vercel.app/api?username=bbigi&show_icons=true&theme=tokyonight )      
-![ Langs Teratas ]( https://github-readme-stats.vercel.app/api/top-langs/?username=bbigi&layout=compact&theme=tokyonight )    
+![ Statistik GitHub Anda ]( https://github-readme-stats.vercel.app/api?username=bbigi&show_icons=true&theme=tokyonight )        
+![ Langs Teratas ]( https://github-readme-stats.vercel.app/api/top-langs/?username=bbigi&layout=compact&theme=tokyonight )      
 
 ### 📬 Hubungi Saya
 - **Layanan:** Tersedia untuk komisi pembuatan Karakter & Animasi 3D (Joki 3D)
 - **Instagram/LinkedIn:** [@yusranrusydi]            
+
+![ Blender ]( https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white )
+![ Godot ]( https://img.shields.io/badge/Godot-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white )
+![ Laravel ]( https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white )
