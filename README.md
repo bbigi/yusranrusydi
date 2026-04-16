@@ -21,19 +21,17 @@ Saya seorang mahasiswa dari UST Yogyakarta yang fokus pada pengembangan game dan
 
 ### 📊 Statistik GitHub
 ![ Statistik GitHub Anda ]( https://github-readme-stats.vercel.app/api?username=bbigi&show_icons=true&theme=tokyonight )          
-![ Langs Teratas ]( https://github-readme-stats.vercel.app/api/top-langs/?username=bbigi&layout=compact&theme=tokyonight )          
-### 🏆 Trofi GitHub
-[ ![trofi kontribusi github ]( https://github-profile-trophy.vercel.app/?username=bbigi )]( https://github.com/ryo-ma/github-profile-trophy )                    
+![ Langs Teratas ]( https://github-readme-stats.vercel.app/api/top-langs/?username=bbigi&layout=compact&theme=tokyonight )                                 
 
 ### 💼 Layanan
 Saya terbuka untuk pekerjaan lepas:
-- [x] Pemodelan Karakter 3D (Blender)    
-- [x] Mixamo / Pengaturan Rigging Kustom        
+- [x] Pemodelan Karakter 3D (Blender)      
+- [x] Mixamo / Pengaturan Rigging Kustom          
 - [x] Dukungan Teknis Godot/Unity
 - [x] Penyesuaian Performa ADB (Android)
 
-[ Hubungi Saya via WhatsApp ]( https://wa.me/081242874252)                      
+[ Hubungi Saya via WhatsApp ]( https://wa.me/6281242874252)                            
 
-![ Blender ]( https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white )
-![ Godot ]( https://img.shields.io/badge/Godot-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white )
+![Blender]( https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white )  
+![Godot]( https://img.shields.io/badge/Godot-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white )  
 ![ Laravel ]( https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white )
