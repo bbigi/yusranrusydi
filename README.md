@@ -119,6 +119,54 @@ Dasbor berbasis Laravel yang dikembangkan untuk membantu pengelolaan dan analisi
 </div>
 
 ---
+## 📊 Statistik GitHub
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbigi&theme=tokyonight"
+  width="100%"
+  alt="Ringkasan Profil GitHub Yusran"
+/>
+
+<br><br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bbigi&theme=tokyonight"
+  width="49%"
+  alt="Statistik GitHub Yusran"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bbigi&theme=tokyonight"
+  width="49%"
+  alt="Bahasa Pemrograman Yusran"
+/>
+
+<br><br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bbigi&theme=tokyonight"
+  width="49%"
+  alt="Bahasa Berdasarkan Commit"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bbigi&theme=tokyonight&utcOffset=7"
+  width="49%"
+  alt="Waktu Produktif GitHub Yusran"
+/>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com?user=bbigi&theme=tokyonight&hide_border=true&locale=id"
+  width="70%"
+  alt="GitHub Streak Yusran"
+/>
+
+</div>
+---
 
 ## 💼 Layanan
 
