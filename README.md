@@ -101,24 +101,6 @@ Dasbor berbasis Laravel yang dikembangkan untuk membantu pengelolaan dan analisi
 * Penyajian informasi dan laporan
 
 ---
-
-## 📈 Statistik GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bbigi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Statistik GitHub Yusran"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbigi&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Bahasa Pemrograman yang Digunakan"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bbigi&theme=tokyonight&hide_border=true" alt="GitHub Streak Yusran"/>
-
-</div>
-
----
 ## 📊 Statistik GitHub
 
 <div align="center">
